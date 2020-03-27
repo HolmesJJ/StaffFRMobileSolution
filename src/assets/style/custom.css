@@ -1,0 +1,12 @@
+.am-button-primary {
+  background-color: #c40300 !important;
+}
+.am-modal-button-group-h .am-modal-button:last-child,
+.am-navbar-light,
+.am-picker-popup-item {
+  color: #c40300 !important;
+}
+
+.am-radio.am-radio-checked .am-radio-inner:after {
+  border-color: #c40300 !important;
+}
